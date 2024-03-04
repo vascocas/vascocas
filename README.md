@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @vascocas
+- 🌱 I’m currently learning JAVA
